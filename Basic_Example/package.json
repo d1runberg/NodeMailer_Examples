@@ -1,0 +1,11 @@
+{
+  "name": "basic_example",
+  "version": "1.0.0",
+  "description": "basic example of using the nodemailer node.js module",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Runberg",
+  "license": "ISC"
+}
